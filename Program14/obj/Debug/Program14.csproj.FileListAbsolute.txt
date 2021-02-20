@@ -1,0 +1,7 @@
+D:\Алёша\Учёба\ОПиБД\Program14\Program14\bin\Debug\Program14.exe.config
+D:\Алёша\Учёба\ОПиБД\Program14\Program14\bin\Debug\Program14.exe
+D:\Алёша\Учёба\ОПиБД\Program14\Program14\bin\Debug\Program14.pdb
+D:\Алёша\Учёба\ОПиБД\Program14\Program14\obj\Debug\Program14.csprojAssemblyReference.cache
+D:\Алёша\Учёба\ОПиБД\Program14\Program14\obj\Debug\Program14.csproj.CoreCompileInputs.cache
+D:\Алёша\Учёба\ОПиБД\Program14\Program14\obj\Debug\Program14.exe
+D:\Алёша\Учёба\ОПиБД\Program14\Program14\obj\Debug\Program14.pdb
